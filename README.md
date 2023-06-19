@@ -22,7 +22,8 @@ Part I: Create the Earthquake Visualization
 
 -- Created a legend that will provide context for the map data.
 
+Screenshot of map: 
 
-
+![Alt text](<Screenshot 2023-06-18 at 11.41.16 PM.png>)
 
 
